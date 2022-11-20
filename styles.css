@@ -203,7 +203,7 @@ img {
   justify-content: center;
   align-content: center;
   text-decoration: underline;
-  text-shadow: #000407;
+  text-shadow: rgb(0, 4, 7);
   color: #79031d;
   margin-left: 10px;
 }
@@ -327,7 +327,7 @@ project:active {
   display: flex;
   justify-content: center;
   text-decoration: underline;
-  text-shadow: rgb(70, 65, 65);
+  text-shadow: #464141;
   color: #79031d;
   margin-top: 10px;
 }
